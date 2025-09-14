@@ -4,6 +4,7 @@
 
 ---
 
+
 ## Project description
 
 RECIPE PRO is a React-based UI that converts ingredients (typed or spoken) or an uploaded dish image into a full, cookable recipe. It returns a catchy recipe name, an ingredient list with quantities, step-by-step instructions, and an AI-generated dish image. Built for prototyping and demos — extendable to a full product with secure API keys, persistence, and deployment.
